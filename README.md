@@ -71,10 +71,10 @@ This project uses the **Market-1501** dataset for person re-identification.
 ### Manual Download
 
 1. Visit the official Market-1501 dataset page:
-   - **Official page**: https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html
+   - **Official page**: (https://www.kaggle.com/datasets/pengcw1/market-1501)
    - **Alternative**: Search for "Market-1501 dataset download" for mirror links
 
-2. Download `Market-1501-v15.09.15.zip` (approximately 330 MB)
+2. Download `archive.zip` (approximately 153 MB)
 
 3. Extract the dataset to the `data` directory:
 ```bash
@@ -82,7 +82,7 @@ This project uses the **Market-1501** dataset for person re-identification.
 mkdir -p data
 
 # Extract the downloaded zip file
-unzip Market-1501-v15.09.15.zip -d data/
+unzip archive.zip -d data/
 ```
 
 4. Verify the directory structure:
