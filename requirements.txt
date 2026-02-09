@@ -1,0 +1,28 @@
+# Privacy-Aware Person Re-Identification Requirements
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Differential Privacy
+opacus>=1.4.0
+
+# Data Processing
+numpy>=1.24.0
+Pillow>=9.5.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress Bars
+tqdm>=4.65.0
+
+# Dataset Download
+gdown>=4.7.0
+kagglehub>=0.2.0
+
+# Data Analysis
+pandas>=2.0.0
